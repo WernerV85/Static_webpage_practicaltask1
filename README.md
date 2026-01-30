@@ -1,10 +1,7 @@
-# Static_webpage_practicaltask1
-Task to display a Static webpage
-
 # HTML Overview – My Childhood
 
 ## Overview
-This folder contains a simple HTML page about my childhood hobbies and toys. The page demonstrates headings, paragraphs, line breaks, images, and an in-page anchor link.
+This folder contains a simple HTML page about childhood hobbies and toys. The page demonstrates headings, paragraphs, line breaks, images, and an in-page anchor link.
 
 ## Files
 - index.html: Main page content.
